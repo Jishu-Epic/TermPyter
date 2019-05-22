@@ -70,7 +70,7 @@ def clang():
 
 def ban():
     print(banner)
-    print(bgreen+"    Made By 3P1C"+bred+"         Cyber Knight")
+    print(bgreen+"    Made By 3P1C"+bred+"         EPIC")
     print(bheader+"\n:::::::::::::::::::::::::::::::::::::::::::\n")
 def instal():
     print(byellow+"\n[?] Checking Dependencies..."+white+'')
