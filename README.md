@@ -4,7 +4,7 @@ Fix all error installtion jupyter in termux
 # Made By
 Author Epic
  
-# Setup
+# Command
 bash setup.sh
 
 
