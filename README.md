@@ -4,8 +4,11 @@ Fix all error installtion jupyter in termux
 # Made By
 Author Epic
  
-# Usage
-python3 termpyter.py
+# Setup
+bash setup.sh
+
+
+
 
  
-## We Are Cyber Knight ##
+
